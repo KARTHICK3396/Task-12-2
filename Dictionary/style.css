@@ -1,0 +1,15 @@
+.container {
+    max-width: 600px;
+  }
+  
+  #definitions {
+    margin-top: 20px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+
+  .ex{
+    color: rgb(145, 135, 123);
+  }
